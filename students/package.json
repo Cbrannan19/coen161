@@ -1,0 +1,12 @@
+{
+  "name": "snippets-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to read through a directory of code snippets",
+  "main": "index.js",
+  "author": "Arman Elahi",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0"
+  }
+}
